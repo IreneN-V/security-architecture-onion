@@ -1,1 +1,0 @@
-# security-architecture-onion
