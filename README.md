@@ -2,7 +2,7 @@
 
 An interactive defense-in-depth model. Twelve security control layers are drawn as concentric rings around the data they protect. You can follow an attack ring by ring, see which controls block, slow or miss it, and check how each layer maps to MITRE ATT&CK and compliance frameworks.
 
-**[▶ Live demo](https://USERNAME.github.io/security-architecture-onion/)**
+**[▶ Live demo](https://IreneN-V.github.io/security-architecture-onion/)**
 
 ![Attack path animation: a ransomware scenario moving through the layers](docs/demo.gif)
 
@@ -71,7 +71,7 @@ The cross-cutting capabilities **SIEM, SOAR, UEBA** and **Zero Trust** are shown
 ## Run locally
 
 ```bash
-git clone https://github.com/USERNAME/security-architecture-onion.git
+git clone https://github.com/IreneN-V/security-architecture-onion.git
 cd security-architecture-onion
 npm install
 npm run dev
